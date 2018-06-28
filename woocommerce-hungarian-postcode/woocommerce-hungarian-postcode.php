@@ -37,12 +37,4 @@ function inject_js_file() {
 }
 add_action( 'wp_footer', 'inject_js_file');
 
-
-/**
- * CHECK WOOCOMMERCE 
- */
-function is_woocommerce_active() {
-	return in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) );
-}
-
 ?>
