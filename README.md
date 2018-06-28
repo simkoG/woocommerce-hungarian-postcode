@@ -3,4 +3,4 @@ Woocommerce esetén ha a vásárló megadja az irányítószámát, a plugin aut
 
 ## Telepítés
 1. Csomagold ki a fájlokat a `woocommerce-hungarian-postcode` könyvtárban
-1. Aktiváld a plugint a `Bővítmények` menüpont alatt1
+1. Aktiváld a plugint a `Bővítmények` menüpont alatt
